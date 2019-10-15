@@ -2,7 +2,7 @@ This is my Java file.....Haha Git.
 
 class HelloGit{
 
-main(){
+public static void main(String args[]){
 
 sysout("Welcome to Git...");
 }
