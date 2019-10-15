@@ -1,1 +1,10 @@
 This is my Java file.....Haha Git.
+
+class HelloGit{
+
+main(){
+
+sysout("Welcome to Git...");
+}
+
+}
