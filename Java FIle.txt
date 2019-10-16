@@ -7,4 +7,7 @@ public static void main(String args[]){
 sysout("Welcome to Git...");
 }
 
+public void MyMethod(){
+}
+
 }
